@@ -1,0 +1,300 @@
+{
+  "document": "AvoFud UI Kit",
+  "platform": "Pixso China",
+  "page": "Light ",
+  "referenceSize": {
+    "width": 375,
+    "height": 812
+  },
+  "frames": [
+    {
+      "screen": "01",
+      "nodeId": "48:52",
+      "reference": "reference/01.png"
+    },
+    {
+      "screen": "02",
+      "nodeId": "44:2",
+      "reference": "reference/02.png"
+    },
+    {
+      "screen": "03",
+      "nodeId": "55:4",
+      "reference": "reference/03.png"
+    },
+    {
+      "screen": "04",
+      "nodeId": "66:475",
+      "reference": "reference/04.png"
+    },
+    {
+      "screen": "05",
+      "nodeId": "66:401",
+      "reference": "reference/05.png"
+    },
+    {
+      "screen": "06",
+      "nodeId": "48:176",
+      "reference": "reference/06.png"
+    },
+    {
+      "screen": "07",
+      "nodeId": "51:163",
+      "reference": "reference/07.png"
+    },
+    {
+      "screen": "08",
+      "nodeId": "91:898",
+      "reference": "reference/08.png"
+    },
+    {
+      "screen": "09",
+      "nodeId": "91:744",
+      "reference": "reference/09.png"
+    },
+    {
+      "screen": "10",
+      "nodeId": "66:1310",
+      "reference": "reference/10.png"
+    },
+    {
+      "screen": "11",
+      "nodeId": "118:24",
+      "reference": "reference/11.png"
+    },
+    {
+      "screen": "12",
+      "nodeId": "97:43",
+      "reference": "reference/12.png"
+    },
+    {
+      "screen": "13",
+      "nodeId": "89:444",
+      "reference": "reference/13.png"
+    },
+    {
+      "screen": "14",
+      "nodeId": "90:475",
+      "reference": "reference/14.png"
+    },
+    {
+      "screen": "15",
+      "nodeId": "97:2",
+      "reference": "reference/15.png"
+    },
+    {
+      "screen": "16",
+      "nodeId": "51:408",
+      "reference": "reference/16.png"
+    },
+    {
+      "screen": "17",
+      "nodeId": "93:284",
+      "reference": "reference/17.png"
+    },
+    {
+      "screen": "18",
+      "nodeId": "91:592",
+      "reference": "reference/18.png"
+    },
+    {
+      "screen": "19",
+      "nodeId": "142:1336",
+      "reference": "reference/19.png"
+    },
+    {
+      "screen": "20",
+      "nodeId": "142:1443",
+      "reference": "reference/20.png"
+    },
+    {
+      "screen": "21",
+      "nodeId": "146:105",
+      "reference": "reference/21.png"
+    },
+    {
+      "screen": "22",
+      "nodeId": "145:0",
+      "reference": "reference/22.png"
+    },
+    {
+      "screen": "23",
+      "nodeId": "66:559",
+      "reference": "reference/23.png"
+    },
+    {
+      "screen": "24",
+      "nodeId": "93:221",
+      "reference": "reference/24.png"
+    },
+    {
+      "screen": "25",
+      "nodeId": "66:293",
+      "reference": "reference/25.png"
+    },
+    {
+      "screen": "26",
+      "nodeId": "126:83",
+      "reference": "reference/26.png"
+    },
+    {
+      "screen": "27",
+      "nodeId": "159:469",
+      "reference": "reference/27.png"
+    },
+    {
+      "screen": "28",
+      "nodeId": "159:488",
+      "reference": "reference/28.png"
+    }
+  ],
+  "assets": [
+    {
+      "name": "logo",
+      "nodeId": "44:47",
+      "path": "../assets/images/logo.png"
+    },
+    {
+      "name": "splash_logo",
+      "nodeId": "48:61",
+      "path": "../assets/images/splash_logo.png"
+    },
+    {
+      "name": "tea",
+      "nodeId": "55:7",
+      "path": "../assets/images/tea.png"
+    },
+    {
+      "name": "avocado",
+      "nodeId": "66:547",
+      "path": "../assets/images/avocado.png"
+    },
+    {
+      "name": "cake",
+      "nodeId": "66:550",
+      "path": "../assets/images/cake.png"
+    },
+    {
+      "name": "signin",
+      "nodeId": "51:162",
+      "path": "../assets/images/signin.png"
+    },
+    {
+      "name": "empty",
+      "nodeId": "66:1151",
+      "path": "../assets/images/empty.png"
+    },
+    {
+      "name": "burger",
+      "nodeId": "105:663",
+      "path": "../assets/images/burger.png"
+    },
+    {
+      "name": "yogurt",
+      "nodeId": "91:530",
+      "path": "../assets/images/yogurt.png"
+    },
+    {
+      "name": "cereal_one",
+      "nodeId": "91:552",
+      "path": "../assets/images/cereal_one.png"
+    },
+    {
+      "name": "cereal_two",
+      "nodeId": "91:591",
+      "path": "../assets/images/cereal_two.png"
+    },
+    {
+      "name": "cabbage",
+      "nodeId": "142:2144",
+      "path": "../assets/images/cabbage.png"
+    },
+    {
+      "name": "zucchini",
+      "nodeId": "142:2148",
+      "path": "../assets/images/zucchini.png"
+    },
+    {
+      "name": "garlic",
+      "nodeId": "142:2151",
+      "path": "../assets/images/garlic.png"
+    },
+    {
+      "name": "mushroom",
+      "nodeId": "142:2152",
+      "path": "../assets/images/mushroom.png"
+    },
+    {
+      "name": "banana",
+      "nodeId": "142:2156",
+      "path": "../assets/images/banana.png"
+    },
+    {
+      "name": "pepper",
+      "nodeId": "142:2158",
+      "path": "../assets/images/pepper.png"
+    },
+    {
+      "name": "restaurant",
+      "nodeId": "104:0",
+      "path": "../assets/images/restaurant.png"
+    },
+    {
+      "name": "tutorial",
+      "nodeId": "145:5",
+      "path": "../assets/images/tutorial.png"
+    },
+    {
+      "name": "salad_one",
+      "nodeId": "125:6",
+      "path": "../assets/images/salad_one.png"
+    },
+    {
+      "name": "salad_two",
+      "nodeId": "125:19",
+      "path": "../assets/images/salad_two.png"
+    },
+    {
+      "name": "salad_three",
+      "nodeId": "125:2",
+      "path": "../assets/images/salad_three.png"
+    },
+    {
+      "name": "salad_four",
+      "nodeId": "125:79",
+      "path": "../assets/images/salad_four.png"
+    },
+    {
+      "name": "dimsum",
+      "nodeId": "66:297",
+      "path": "../assets/images/dimsum.png"
+    },
+    {
+      "name": "avatar",
+      "nodeId": "126:202",
+      "path": "../assets/images/avatar.png"
+    },
+    {
+      "name": "review",
+      "nodeId": "159:505",
+      "path": "../assets/images/review.png"
+    },
+    {
+      "name": "success",
+      "nodeId": "142:1967",
+      "path": "../assets/images/success.png"
+    }
+  ],
+  "tokens": {
+    "primary": "#EE9236",
+    "ink": "#212432",
+    "green": "#A9D867",
+    "error": "#CF644D",
+    "radii": [
+      20,
+      22
+    ],
+    "referenceFont": "Cera Round Pro",
+    "implementationFont": "Nunito"
+  }
+}
